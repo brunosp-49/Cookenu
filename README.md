@@ -2,7 +2,7 @@
 
 link base: https://cookenu-28.herokuapp.com
 
-#Endpoints: <br> <br>
+# Endpoints: <br> <br>
 -Singup:
 /singup
 body: name, email, password
